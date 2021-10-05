@@ -3,7 +3,7 @@
 <div align="center">
   
   [![Twitter](https://img.shields.io/twitter/follow/aniket_rochwani?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/aniket_rochwani)
-  [![Follow me on Github](https://img.shields.io/github/followers/aniketrochwani?color=236ad3&style=for-the-badge&logo=github&label=Follow)](https://github.com/aniket)
+  [![Follow me on Github](https://img.shields.io/github/followers/aniketrochwani?color=236ad3&style=for-the-badge&logo=github&label=Follow)](https://github.com/aniketrochwani)
   <br></br>
   [![Github views](https://komarev.com/ghpvc/?username=aniketrochwani&style=flat-square&color=blueviolet)](https://github.com/aniketrochwani)
   
