@@ -1,1 +1,1 @@
-![Header](./header.mp4)
+![Header](./header.gif)
