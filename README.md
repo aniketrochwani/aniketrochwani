@@ -17,7 +17,7 @@
 Aniket is an student currently pursuing a technological degree in Smart Manufacturing from Indian Institute of Information Technology Design and Manufacturing (IIITDM) Kancheepuram. He is a detail-oriented IT enthusiast with experience in Web Technologies. Skilled at operating in a wide range of platforms.Excellent written and oral communication skills; capable of explaining complex Web Stack issues in easy-to-understand terms. <br/><br/>
 
 <!-- Code -->
-# Connect with me
+# Connect with me:
 <div align="center">
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/aniket_rochwani)
@@ -31,7 +31,7 @@ Aniket is an student currently pursuing a technological degree in Smart Manufact
   </div>
 <br></br>
 
-# Tools and Languages I have worked with
+# Language/Framework/Tools I have worked on:
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -68,7 +68,7 @@ Aniket is an student currently pursuing a technological degree in Smart Manufact
   </div>
 <br></br>
 
-# Github Stats 
+# Github Stats:
 
 <a href="https://github.com/aniketrochwani">
     <img src="https://github-readme-stats.vercel.app/api?username=aniketrochwani&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" width="51%" />
@@ -84,13 +84,13 @@ Aniket is an student currently pursuing a technological degree in Smart Manufact
 </div>
 
 <br></br>
-# Blog posts
+# Blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [How to convert CSV string file to a 2D array of objects using JavaScript ?](https://www.geeksforgeeks.org/how-to-convert-csv-string-file-to-a-2d-array-of-objects-using-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 <br></br>
-# Spotify
+# Spotify:
 <!-- Spotify -->
 <div align="center">
 <table width="100%"> 
