@@ -103,7 +103,7 @@ Aniket is an student currently pursuing a technological degree in Smart Manufact
   <td width="50%">
 
 <br><p align="center">Part time Listener!<br>
-    <i>Tap song, let's listen together</i>
+    <i>Tap song, let's vibe together</i>
 </p>
   </td>
   </table>
