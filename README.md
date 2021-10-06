@@ -8,6 +8,7 @@
   [![Github views](https://komarev.com/ghpvc/?username=aniketrochwani&style=flat-square&color=blueviolet)](https://github.com/aniketrochwani)
   
 </div>
+<br></br>
 
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Howdy!, I am <a href="https://github.com/aniketrochwani">Aniket</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
@@ -81,13 +82,13 @@ Aniket is an student currently pursuing a technological degree in Smart Manufact
     
 </div>
 
-
+<br></br>
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to convert CSV string file to a 2D array of objects using JavaScript ?](https://www.geeksforgeeks.org/how-to-convert-csv-string-file-to-a-2d-array-of-objects-using-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
-
+<br></br>
 # Spotify
 <!-- Spotify -->
 <div align="center">
@@ -100,7 +101,8 @@ Aniket is an student currently pursuing a technological degree in Smart Manufact
   </td>
   <td width="50%">
 
-<br><p align="center">Part time Listener!<br><br>
+<br><p align="center">Part time Listener!<br>
+    <i>Tap song, let's listen together</i>
 </p>
   </td>
   </table>
