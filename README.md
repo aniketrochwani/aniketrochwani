@@ -31,7 +31,7 @@ Aniket is an student currently pursuing a technological degree in Smart Manufact
   </div>
 <br></br>
 
-# Language/Framework/Tools I have worked on:
+# Languages/Frameworks/Tools I have worked on:
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
