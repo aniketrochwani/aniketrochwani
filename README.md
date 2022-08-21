@@ -1,4 +1,4 @@
-![Header](./header.gif)
+<!-- ![Header](./header.gif) -->
 
 <div align="center">
   
