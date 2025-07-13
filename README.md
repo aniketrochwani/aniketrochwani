@@ -12,10 +12,6 @@
 
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Howdy!, I am <a href="https://github.com/aniketrochwani">Aniket</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
-
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-Aniket is an student currently pursuing a technological degree in Smart Manufacturing from Indian Institute of Information Technology Design and Manufacturing (IIITDM) Kancheepuram. He is a detail-oriented IT enthusiast with experience in Web Technologies. Skilled at operating in a wide range of platforms.Excellent written and oral communication skills; capable of explaining complex Web Stack issues in easy-to-understand terms.
-
 <br/><br/>
 
 <!-- Code -->
